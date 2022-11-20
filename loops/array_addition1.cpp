@@ -15,7 +15,8 @@ int main(){
 			if((a[j]+a[k])==target){
 				cout<<"["<<a[j]<<","<<a[k]<<"]"<<endl;
 			}
-			else return -1;
+			else 
+				return -1;
 		}
 	}
 	
