@@ -1,0 +1,1 @@
+{"name":"Local: sum_of_array","url":"/workspaces/simple_cpp_program/concepts/recursion/sum_of_array.cpp","tests":[{"id":1670158638011,"input":"2\n1 2","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/workspaces/simple_cpp_program/concepts/recursion/sum_of_array.cpp","group":"local","local":true}
