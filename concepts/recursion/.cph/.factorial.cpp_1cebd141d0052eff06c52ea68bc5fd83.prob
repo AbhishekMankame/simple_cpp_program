@@ -1,0 +1,1 @@
+{"name":"Local: factorial","url":"/workspaces/simple_cpp_program/concepts/recursion/factorial.cpp","tests":[{"id":1670156896062,"input":"5","output":"120"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/workspaces/simple_cpp_program/concepts/recursion/factorial.cpp","group":"local","local":true}
