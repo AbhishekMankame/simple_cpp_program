@@ -1,1 +1,0 @@
-{"name":"Local: digit_sum","url":"/workspaces/simple_cpp_program/concepts/recursion/digit_sum.cpp","tests":[{"id":1670246119855,"input":"121","output":"4"},{"id":1670246136153,"input":"10008","output":"9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/workspaces/simple_cpp_program/concepts/recursion/digit_sum.cpp","group":"local","local":true}
