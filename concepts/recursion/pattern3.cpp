@@ -1,3 +1,10 @@
+/* Pattern
+1234
+1234
+1234
+1234
+*/
+
 #include<bits/stdc++.h>
 using namespace std;
 
