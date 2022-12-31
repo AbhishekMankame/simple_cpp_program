@@ -9,6 +9,7 @@ int digit_sum(int n){
 int main(){
     freopen("input.txt","r",stdin);
     freopen("output.txt","w",stdout);
+    freopen("error.txt","w",stderr);
 
     int n;
     cin>>n;
