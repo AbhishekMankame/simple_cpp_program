@@ -19,7 +19,7 @@ int main()
     ll j=1;
     while(j<=n)
     {
-      char ch = ('A'+-1);
+      char ch = ('A'+i-1);
       cout<<ch;
       j++;
     }
