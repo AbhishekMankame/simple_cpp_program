@@ -1,4 +1,4 @@
-A
-AA
-AAA
-AAAA
+D
+CD
+BCD
+ABCD

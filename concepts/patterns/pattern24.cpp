@@ -9,12 +9,12 @@ int main(){
     ll n;
     cin>>n;
     ll i=1;
-    int count=1;
     while(i<=n){
         ll j=1;
+        char ch='A'+n-i;
         while(j<=i){
-            char ch='A'+i+j-2;
             cout<<ch;
+            ch++;
             j++;
         }
         cout<<endl;
