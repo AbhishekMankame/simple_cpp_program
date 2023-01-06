@@ -1,0 +1,5 @@
+/* PATTERN
+A
+BB
+CCC
+*/
