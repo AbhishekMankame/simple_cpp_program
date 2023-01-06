@@ -1,0 +1,34 @@
+#include<bits/stdc++.h>
+using namespace std;
+#define ll long long int
+
+int main(){
+    freopen("input.txt","r",stdin);
+    freopen("output.txt","w",stdout);
+    freopen("error.txt","w",stderr);
+
+    ll n;
+    cin>>n;
+    ll i=1;
+    while(i<=n){
+        ll space=n-i;
+        while(space){
+            cout<<" ";
+            space--;
+        }
+        int j=1;
+        while(j<=i){
+            cout<<j;
+            j++;
+        }
+
+        // Second Triangle
+        int start = i-1;
+        while(start){
+            cout<<start;
+            start--;
+        }
+        cout<<endl;
+        i++;
+    }
+}
