@@ -32,6 +32,11 @@ int main(){
     cout<<" not b = "<<~b<<endl;
     cout<<" not c = "<<~c<<endl;
     cout<<" not d = "<<~d<<endl;
+
+    cout<<"--------------------------------------"<<endl;
+    cout<<"BINARY XOR"<<endl;
+    cout<<"a xor b = "<<(a^b)<<endl;
+    cout<<"c xor d = "<<(c^d)<<endl;
     
     return 0;
 }

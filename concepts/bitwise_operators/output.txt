@@ -13,3 +13,7 @@ BINARY NOT
  not b = -7
  not c = -4
  not d = -7
+--------------------------------------
+BINARY XOR
+a xor b = 5
+c xor d = 5
