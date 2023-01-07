@@ -1,0 +1,15 @@
+3 6 3 6 
+Hello World
+BINARY AND
+a and b = 2
+c and d = 2
+--------------------------------------
+BINARY OR
+a or b = 7
+c or d = 7
+---------------------------------------
+BINARY NOT
+ not a = -4
+ not b = -7
+ not c = -4
+ not d = -7
