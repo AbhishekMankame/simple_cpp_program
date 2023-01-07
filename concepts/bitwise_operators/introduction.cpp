@@ -37,6 +37,8 @@ int main(){
     cout<<"BINARY XOR"<<endl;
     cout<<"a xor b = "<<(a^b)<<endl;
     cout<<"c xor d = "<<(c^d)<<endl;
+    cout<<"a xor d = "<<(a^d)<<endl;
+    cout<<"b xor c = "<<(b^c)<<endl;
     
     return 0;
 }

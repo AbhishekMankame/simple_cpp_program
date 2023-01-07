@@ -17,3 +17,5 @@ BINARY NOT
 BINARY XOR
 a xor b = 5
 c xor d = 5
+a xor d = 5
+b xor c = 5
