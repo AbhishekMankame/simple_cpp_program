@@ -9,7 +9,7 @@ int main(){
     ll t;
     cin>>t;
     while(t--){
-        int num, rem;
+        ll num, rem;
         cin>>num;
         rem=num%10;
         while(num>9){
