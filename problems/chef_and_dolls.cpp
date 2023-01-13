@@ -15,4 +15,5 @@ int main(){
         a=a^t;
     }
     cout<<a<<endl;
+    return 0;
 }
