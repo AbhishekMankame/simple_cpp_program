@@ -8,4 +8,11 @@ int main(){
 
     int n;
     cin>>n;
+    int a=0;
+    for(int i=0;i<n;i++){
+        int t;
+        cin>>t;
+        a=a^t;
+    }
+    cout<<a<<endl;
 }
