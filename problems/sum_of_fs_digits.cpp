@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-#define ll long long int
+#define ll long long int      //macro
 
 int main(){
     freopen("input.txt","r",stdin);
