@@ -1,3 +1,9 @@
 In main 6
 Size of array in Main 24
 In function size of array is 8
+1
+2
+3
+4
+5
+6
