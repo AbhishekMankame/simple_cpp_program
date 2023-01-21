@@ -14,7 +14,7 @@ int main(){
     for(int i=0;i<n;i++){
         int t;
         cin>>t;
-        a=a^t;
+        a=a^t;     //XOR condition
     }
     cout<<a<<endl;
     return 0;
