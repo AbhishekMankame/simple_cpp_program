@@ -18,6 +18,16 @@ int main(){
 
     int a[]={12,2,34,43,53,655,6,7};
     int n=sizeof(a)/sizeof(int);
+
+    cout<<"Array before reverse"<<endl;
+
+    for(auto i:a){
+        cout<<i<<" ";
+    }
+    cout<<endl;
+
+    cout<<"Array after reverse"<<endl;
+    
     reverseArray(a,n);
     for(auto i:a){
         cout<<i<<" ";

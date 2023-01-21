@@ -1,1 +1,4 @@
+Array before reverse
+12 2 34 43 53 655 6 7 
+Array after reverse
 7 6 655 53 43 34 2 12 
