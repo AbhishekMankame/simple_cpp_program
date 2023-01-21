@@ -36,3 +36,5 @@ int main(){
 
     return 0;
 }
+
+// Time complexity for reversing an array is O(N)
