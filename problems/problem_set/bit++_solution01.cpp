@@ -11,6 +11,7 @@ int main()
     int n,m,num,max=0;
     freopen("input.txt","r",stdin);
     freopen("output.txt","w",stdout);
+    freopen("error.txt","w",stderr);
     scanf("%d",&n);
     j=0;
     for(i=0;i<n;++i)
