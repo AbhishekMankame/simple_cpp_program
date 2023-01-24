@@ -8,4 +8,6 @@ int main() {
     cin >> str;
     unordered_set<char> M(str.begin(), str.end());
     cout << (M.size() % 2 ? "IGNORE HIM!" : "CHAT WITH HER!");
+
+    return 0;
 }
