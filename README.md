@@ -1,5 +1,5 @@
 # simple_cpp_program
-<ul><li>Basic, simple C++ programs and basic data structures and algorithms.</li>
+<ul><li>Basic, simple C++ programs.</li>
 <li>Practice problems!!!</li>
 <li>Solving simple problems generally in Codespaces</li>
-<li>Data Strucutures</li></ul>
+<li>Data Strucutures and algorithms.</li></ul>
