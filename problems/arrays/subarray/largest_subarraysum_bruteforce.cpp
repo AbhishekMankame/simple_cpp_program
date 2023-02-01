@@ -1,6 +1,9 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+// Brute force approach
+// Time Complexity: O(n^3)
+
 int largestSubarraySum(int arr[], int n){
     int largest_sum=0;
     for(int i=0;i<n;i++){
