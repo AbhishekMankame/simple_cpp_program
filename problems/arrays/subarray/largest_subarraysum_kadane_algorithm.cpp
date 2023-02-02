@@ -1,6 +1,9 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+// Kadane Algorithm
+// Time Complexity O(N)
+
 int largestSubarraySum(int arr[],int n){
     int cs=0;
     int ls=0;
