@@ -2,7 +2,8 @@
 using namespace std;
 #define endl '\n'
 
-// Prefex sums O(n^2)
+// Prefex sums
+// Time Complexity O(n^2)
 
 int largestSubarraySum(int arr[], int n){
     int prefix[100]={0};
