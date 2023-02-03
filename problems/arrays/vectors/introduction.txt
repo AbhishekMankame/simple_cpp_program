@@ -4,3 +4,7 @@
 <li> Just like arrays, vectors use contiguous storage locations for their elements, which means that their elements can also be accessed in O(N) time.</li>
 <li> But unlike arrays, their size can change dynamically, with their storage being handled automatically by the container. </li>
 </ul>
+
+### Points to note
+<ul><li> Vectors can be used to create dynamic 1D and 2D arrays.</li>
+<li> Unlike arrays, vectors are passed by value to a function, we may can still pass them by reference if need arises.</li></ul>
