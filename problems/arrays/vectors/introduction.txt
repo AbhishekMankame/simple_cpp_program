@@ -1,0 +1,6 @@
+## Vectors
+<ul>
+<li> Vectors are sequence containers representing arrays that can change in size.</li>
+<li> Just like arrays, vectors use contiguous storage locations for their elements, which means that their elements can also be accessed in O(N) time.</li>
+<li> But unlike arrays, their size can change dynamically, with their storage being handled automatically by the container. </li>
+</ul>
