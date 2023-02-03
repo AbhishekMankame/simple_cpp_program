@@ -10,6 +10,14 @@ int main(){
     // Demo vector
     vector<int> arr={1,2,10,5,12};
 
+    // push_back() O(1)
+    arr.push_back(3);
+
+    // Print all the elements
+    for(int i=0;i<arr.size();i++){
+        cout<<arr[i]<<endl;
+    }
+
     // Size of the vector (Number of elements)
     cout<<arr.size()<<endl;
 
