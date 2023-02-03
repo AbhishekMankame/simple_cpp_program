@@ -8,7 +8,7 @@ int main(){
     freopen("output.txt","w",stdout);
     freopen("error.txt", "w", stderr);
     // Demo vector
-    vector<int> arr;
+    vector<int> arr={1,2,10,5,12};
     cout<<arr.size()<<endl;
 
     return 0;
