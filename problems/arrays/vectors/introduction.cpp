@@ -9,7 +9,11 @@ int main(){
     freopen("error.txt", "w", stderr);
     // Demo vector
     vector<int> arr={1,2,10,5,12};
+
+    // Size of the vector (Number of elements)
     cout<<arr.size()<<endl;
 
+    // Capacity of the vector (Actual memory allocated to this vector)
+    cout<<arr.capacity()<<endl;
     return 0;
 }
