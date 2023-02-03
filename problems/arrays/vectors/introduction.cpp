@@ -10,6 +10,9 @@ int main(){
     // Demo vector
     vector<int> arr={1,2,10,5,12};
 
+    //pop_back()
+    arr.pop_back();
+
     // push_back() O(1)
     arr.push_back(3);
 
