@@ -1,6 +1,18 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+void insertionsort(int arr[], int n){
+    for(int i=0;i<n;i++){
+        int current=arr[i];
+        int prev=i-1;
+        while(prev>0 and arr[prev]>current){
+            arr[prev+1]=arr[prev];
+            prev=prev-1;
+        }
+        arr[prev+1]=current;
+    }
+}
+
 int main(){
     freopen("input.txt","r",stdin);
     freopen("output.txt","w",stdout);
