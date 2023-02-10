@@ -1,6 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+// Insertion sort
+
 void insertionsort(int arr[], int n){
     for(int i=0;i<n;i++){
         int current=arr[i];
