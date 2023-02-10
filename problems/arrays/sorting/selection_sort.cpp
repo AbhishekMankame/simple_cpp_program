@@ -3,6 +3,7 @@
 using namespace std;
 
 // selection sort
+// time complexity O(NlogN)
 
 void selection_sort(int arr[], int n){
     
