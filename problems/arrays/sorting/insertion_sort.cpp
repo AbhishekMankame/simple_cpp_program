@@ -2,6 +2,7 @@
 using namespace std;
 
 // Insertion sort
+// Time complexity - O(NlogN)
 
 void insertionsort(int arr[], int n){
     for(int i=0;i<n;i++){
