@@ -2,6 +2,9 @@
 using namespace std;
 #define ll long long int
 
+// bubble sort
+// time complexity - O(NlogN)
+
 void bubblesort(int arr[], int n){
     for(int times=1;times<=n-1;times++){
         //do repeated swapping
