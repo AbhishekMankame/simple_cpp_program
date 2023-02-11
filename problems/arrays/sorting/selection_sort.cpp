@@ -8,10 +8,17 @@ using namespace std;
 void selection_sort(int a[], int n){
     for(int pos=9;pos<=n-2;pos++){
         int current=a[pos];
+        int min_pos=pos;
 
         for(int j=pos;j<n;j++){
-            
+            if(a[j]<a[min_pos]){
+                min_pos=j;
+
+            }
         }
+
+        // swap outside the loop
+        swap(a[min_pos],a[pos]);
     }
     
 }
