@@ -6,7 +6,7 @@ using namespace std;
 // time complexity O(NlogN)
 
 void selection_sort(int a[], int n){
-    for(int pos=9;pos<=n-2;pos++){
+    for(int pos=0;pos<=n-2;pos++){
         int current=a[pos];
         int min_pos=pos;
 
