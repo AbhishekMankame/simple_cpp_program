@@ -10,8 +10,16 @@ int main(){
     int n=sizeof(arr)/sizeof(int);
 
     for(auto i:arr){
-        cout<<i<<" ";
+        cout<<"The elements of array are: "<<i<<" ";
     }
+    cout<<endl;
+
+    // sort function
+    sort(arr,arr+n);
+    for(auto i: arr){
+        cout<<"The array after applying sort function: "<<i<<" ";
+    }
+    cout<<endl;
 
     return 0;
 }
