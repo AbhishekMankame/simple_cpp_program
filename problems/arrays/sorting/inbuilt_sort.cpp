@@ -23,5 +23,12 @@ int main(){
     }
     cout<<endl;
 
+    //reverse function - It is used to reverse the elements of array
+    reverse(arr,arr+n);
+    cout<<"Elements of array after applying reverse: ";
+    for(auto i:arr){
+        cout<<i<<" ";
+    }
+
     return 0;
 }
