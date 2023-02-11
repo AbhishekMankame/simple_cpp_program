@@ -1,6 +1,10 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+bool compare(int a, int b){
+    return a<b;
+}
+
 int main(){
     freopen("input.txt","r",stdin);
     freopen("output.txt","w",stdout);
@@ -29,7 +33,16 @@ int main(){
     for(auto i:arr){
         cout<<i<<" ";
     }
+    cout<<endl;
     // sort also accepts compartor or function as a parameter
+
+    sort(arr,arr+n,compare);
+    cout<<"After applying comparator: ";
+    for(auto i:arr){
+        cout<<i<<" ";
+    }
+    cout<<endl;
+
 
     return 0;
 }
