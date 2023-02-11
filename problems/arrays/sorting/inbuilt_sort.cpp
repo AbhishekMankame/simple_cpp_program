@@ -29,6 +29,7 @@ int main(){
     for(auto i:arr){
         cout<<i<<" ";
     }
+    // sort also accepts compartor or function as a parameter
 
     return 0;
 }
