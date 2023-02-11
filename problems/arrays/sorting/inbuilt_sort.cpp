@@ -9,15 +9,17 @@ int main(){
     int arr[]={1,343,4,54,-32,2,-11,443,5,64,43,222};
     int n=sizeof(arr)/sizeof(int);
 
+    cout<<"The elements of array are: ";
     for(auto i:arr){
-        cout<<"The elements of array are: "<<i<<" ";
+        cout<<i<<" ";
     }
     cout<<endl;
 
     // sort function
     sort(arr,arr+n);
+    cout<<"The array after applying sort function: ";
     for(auto i: arr){
-        cout<<"The array after applying sort function: "<<i<<" ";
+        cout<<i<<" ";
     }
     cout<<endl;
 
