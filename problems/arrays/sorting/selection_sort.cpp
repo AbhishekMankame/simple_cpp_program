@@ -5,7 +5,14 @@ using namespace std;
 // selection sort
 // time complexity O(NlogN)
 
-void selection_sort(int arr[], int n){
+void selection_sort(int a[], int n){
+    for(int pos=9;pos<=n-2;pos++){
+        int current=a[pos];
+
+        for(int j=pos;j<n;j++){
+            
+        }
+    }
     
 }
 
