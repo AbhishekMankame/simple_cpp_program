@@ -1,6 +1,9 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+// inbuilt sort algorithm
+// Time complexity - O(NlogN)
+
 bool compare(int a, int b){
     return a<b;
 }
