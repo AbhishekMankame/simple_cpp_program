@@ -12,4 +12,9 @@ int main(){
     for(auto i:arr){
         cout<<i<<" ";
     }
+
+    sort(arr,arr+n,greater<int>());
+    for(auto i:arr){
+        cout<<i<<" ";
+    }
 }
