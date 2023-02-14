@@ -1,4 +1,1 @@
-The elements of array are: 1 343 4 54 -32 2 -11 443 5 64 43 222 
-The array after applying sort function: -32 -11 1 2 4 5 43 54 64 222 343 443 
-Elements of array after applying reverse: 443 343 222 64 54 43 5 4 2 1 -11 -32 
-After applying comparator: -32 -11 1 2 4 5 43 54 64 222 343 443 
+21 2 -23 -4 353 4 324 1 -12 0 4 -56 
