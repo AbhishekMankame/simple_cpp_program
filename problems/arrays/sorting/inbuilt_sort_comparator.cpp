@@ -12,6 +12,7 @@ int main(){
     for(auto i:arr){
         cout<<i<<" ";
     }
+    cout<<endl;
 
     sort(arr,arr+n,greater<int>());
     for(auto i:arr){
