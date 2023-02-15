@@ -1,6 +1,9 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+// inbuilt sort algorithm
+// time complexity - O(NlogN)
+
 int main(){
     freopen("input.txt","r",stdin);
     freopen("output.txt","w",stdout);
