@@ -11,7 +11,7 @@ int main(){
     char a[]="abcdefgh";
     cout<<a<<endl;
     //strlen() function returns the length of the string
-    cout<<"Length of the string: "<<strlen(a)<<endl;
+    cout<<"Length of the string: "<<strlen(a)<<endl; // number of visible characters
 
     return 0;
 }
