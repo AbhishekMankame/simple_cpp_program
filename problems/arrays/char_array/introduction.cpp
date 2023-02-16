@@ -14,5 +14,10 @@ int main(){
     cout<<"Length of the string: "<<strlen(a)<<endl; // number of visible characters
     cout<<sizeof(a)<<endl; // number of visible characters +1 because of null character
 
+    char b[100];
+    cin>>b;
+    cout<<b<<endl;
+    cout<<strlen(b)<<endl;
+    cout<<sizeof(b)<<endl;
     return 0;
 }
