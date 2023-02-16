@@ -41,4 +41,9 @@ int main(){
         cout<<i<<" ";
     }
     cout<<endl;
+    counting_sort(arr,n);
+    for(auto i:arr){
+        cout<<i<<" ";
+    }
+    cout<<endl;
 }
