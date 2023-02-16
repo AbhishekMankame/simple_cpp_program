@@ -34,7 +34,7 @@ int main(){
     freopen("output.txt","w",stdout);
     freopen("error.txt","w",stderr);
 
-    int arr[]={21,2,-23,-4,353,4,324,1,-12,0,4,-56};
+    int arr[]={21,2,23,4,353,4,324,1,12,0,4,56};
     int n=sizeof(arr)/sizeof(int);
 
     for(auto i:arr){
