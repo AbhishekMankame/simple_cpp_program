@@ -10,6 +10,8 @@ int main(){
 #endif
     char a[]="abcdefgh";
     cout<<a<<endl;
+    //strlen() function returns the length of the string
+    cout<<"Length of the string: "<<strlen(a)<<endl;
 
     return 0;
 }
