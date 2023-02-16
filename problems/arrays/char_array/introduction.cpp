@@ -12,6 +12,7 @@ int main(){
     cout<<a<<endl;
     //strlen() function returns the length of the string
     cout<<"Length of the string: "<<strlen(a)<<endl; // number of visible characters
+    cout<<sizeof(a)<<endl;
 
     return 0;
 }
