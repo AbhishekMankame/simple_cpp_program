@@ -1,6 +1,6 @@
 abcdefgh
 Length of the string: 8
-Size of the string:9
+Size of the string: 9
 nerjsnverkjsn
 13
 100
