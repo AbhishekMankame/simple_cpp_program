@@ -11,6 +11,7 @@ int main(){
     char a[]="abcdefgh";
     cout<<a<<endl;
     //strlen() function returns the length of the string
+    //sizeof() function returns the size of the string
     cout<<"Length of the string: "<<strlen(a)<<endl; // number of visible characters
     cout<<"Size of the string: "<<sizeof(a)<<endl; // number of visible characters +1 because of null character
 
