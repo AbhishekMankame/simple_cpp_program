@@ -2,6 +2,12 @@
 using namespace std;
 #define ll long long int
 
+void fast(){
+    ios_base::sync_with_stdio(0);
+    cin.tie(NULL);
+    cout.tie(NULL);
+}
+
 void counting_sort(int a[], int n){
     // largest element
     int largest=-1;
@@ -33,6 +39,8 @@ int main(){
     freopen("input.txt","r",stdin);
     freopen("output.txt","w",stdout);
     freopen("error.txt","w",stderr);
+
+    fast();
 
     int arr[]={21,2,23,4,353,4,324,1,12,0,4,56};
     int n=sizeof(arr)/sizeof(int);
