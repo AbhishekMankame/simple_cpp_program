@@ -2,6 +2,10 @@
 using namespace std;
 #define ll long long int
 
+void fast(){
+    
+}
+
 int main(){
 #ifdef ONLINE_JUDGE
     freopen("input.txt","r",stdin);
