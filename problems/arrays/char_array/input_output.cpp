@@ -14,6 +14,5 @@ int main(){
 #endif
     fast();
 
-
 return 0;
 }
