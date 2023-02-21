@@ -12,6 +12,7 @@ int main(){
     freopen("output.txt","w",stdout);
     freopen("error.txt","w",stderr);
 #endif
+    fast();
 
 
 return 0;
