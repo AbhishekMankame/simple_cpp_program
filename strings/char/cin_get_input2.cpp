@@ -14,4 +14,10 @@ int main(){
     freopen("error.txt","w",stderr);
 #endif
     fast();
+
+    char ch;
+    ch=cin.get();
+    while(ch!='\n'){
+        
+    }
 }
