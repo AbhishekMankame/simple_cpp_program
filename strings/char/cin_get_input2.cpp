@@ -16,6 +16,8 @@ int main(){
     fast();
 
     char ch;
+
+    // Denotes the counts of alphabets, spaces and digits
     int alpha=0;
     int spacce=0;
     int digit=0;
