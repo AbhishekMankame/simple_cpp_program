@@ -1,3 +1,5 @@
+// cin.getline() function is used to read the whole sentence
+
 #include<bits/stdc++.h>
 using namespace std;
 
