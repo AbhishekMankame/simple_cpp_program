@@ -16,8 +16,11 @@ int main(){
     fast();
 
     char ch;
+    int alpha=0;
+    int spacce=0;
+    int digit=0;
     ch=cin.get();
     while(ch!='\n'){
-        ch-cin.get();
+        ch=cin.get();
     }
 }
