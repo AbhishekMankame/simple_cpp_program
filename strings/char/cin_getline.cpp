@@ -19,7 +19,7 @@ int main(){
     fast();
     char sentence[1000];
     cin.getline(sentence,1000);
-
+    cout<<sentence<<endl;
 
     return 0;
 }
