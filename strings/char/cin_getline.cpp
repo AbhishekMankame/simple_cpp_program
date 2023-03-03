@@ -17,6 +17,8 @@ int main(){
 #endif
 
     fast();
+    char sentence[1000];
+    cin.getline(sentence,1000);
 
 
     return 0;
