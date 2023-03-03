@@ -18,10 +18,15 @@ int main(){
     char sentence[1000];
     char temp=cin.get();
 
-    cout<<temp;
+    //cout<<temp;
 
     int len=1;
+    while(temp!='\n'){
+        len++;
+        cout<<temp;
+        temp=cin.get();
 
+    }
 
     return 0;
 }
