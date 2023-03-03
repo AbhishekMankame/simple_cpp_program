@@ -24,8 +24,8 @@ int main(){
     ch=cin.get();
     while(ch!='\n'){
 
-        if(ch>='0' or ch<='9'){
-            
+        if(ch>='0' and ch<='9'){
+
         }
         ch=cin.get();
     }
