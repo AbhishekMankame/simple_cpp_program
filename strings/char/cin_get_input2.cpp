@@ -35,4 +35,10 @@ int main(){
         }
         ch=cin.get();
     }
+    cout<<"Total Alphabets "<<alpha<<endl;
+    cout<<"Total Numbers "<<digit<<endl;
+    cout<<"Total Spaces "<<space<<endl;
+
+
+    return 0;
 }
