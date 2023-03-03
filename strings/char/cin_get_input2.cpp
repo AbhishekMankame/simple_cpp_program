@@ -18,6 +18,6 @@ int main(){
     char ch;
     ch=cin.get();
     while(ch!='\n'){
-        
+        ch-cin.get();
     }
 }
