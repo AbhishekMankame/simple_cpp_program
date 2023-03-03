@@ -22,5 +22,6 @@ int main(){
     cout<<sentence<<endl;
     char paragraph[1000];
     cin.getline(paragraph,1000,'.'); //here third attribute is the stopping criteria
+    cout<<paragraph<<endl;
     return 0;
 }
