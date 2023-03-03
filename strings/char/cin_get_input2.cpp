@@ -25,7 +25,10 @@ int main(){
     while(ch!='\n'){
 
         if(ch>='0' and ch<='9'){
-
+            digit++;
+        }
+        else if(ch>='a' and ch<='z' or ch>='A' and ch<='Z'){
+            alpha++;
         }
         ch=cin.get();
     }
