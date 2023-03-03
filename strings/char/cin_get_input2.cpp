@@ -23,6 +23,10 @@ int main(){
     int digit=0;
     ch=cin.get();
     while(ch!='\n'){
+
+        if(ch>='0' or ch<='9'){
+            
+        }
         ch=cin.get();
     }
 }
