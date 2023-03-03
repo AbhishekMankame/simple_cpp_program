@@ -19,7 +19,7 @@ int main(){
 
     // Denotes the counts of alphabets, spaces and digits
     int alpha=0;
-    int spacce=0;
+    int space=0;
     int digit=0;
     ch=cin.get();
     while(ch!='\n'){
