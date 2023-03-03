@@ -24,6 +24,8 @@ int main(){
     while(temp!='\n'){
         len++;
         cout<<temp;
+
+        // Update the value of temp
         temp=cin.get();
 
     }
