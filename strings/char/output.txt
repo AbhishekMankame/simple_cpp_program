@@ -1,1 +1,3 @@
-hello how are you?
+Total Alphabets 14
+Total Numbers 0
+Total Spaces 3
