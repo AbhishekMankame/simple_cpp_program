@@ -20,6 +20,7 @@ int main(){
     char sentence[1000];
     cin.getline(sentence,1000);
     cout<<sentence<<endl;
-
+    char paragraph[1000];
+    cin.getline(paragraph,1000,'.'); //here third attribute is the stopping criteria
     return 0;
 }
