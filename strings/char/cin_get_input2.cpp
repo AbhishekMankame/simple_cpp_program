@@ -30,6 +30,9 @@ int main(){
         else if((ch>='a' and ch<='z') or (ch>='A' and ch<='Z')){
             alpha++;
         }
+        else if(ch==' ' or ch=='\t'){
+            space++;
+        }
         ch=cin.get();
     }
 }
