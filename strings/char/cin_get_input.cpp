@@ -18,6 +18,8 @@ int main(){
     char sentence[1000];
     char temp=cin.get();
 
+    cout<<temp;
+
     int len=1;
 
 
