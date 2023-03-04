@@ -43,7 +43,7 @@ void solve(){
     }
 
     // for South-East
-    if(x>=0 and y<0){
+    else if(x>=0 and y<0){
         while(y++){
             cout<<"S";
         }
