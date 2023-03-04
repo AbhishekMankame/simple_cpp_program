@@ -48,7 +48,7 @@ void solve(){
             cout<<"S";
         }
         while(x--){
-            cout<<"W";
+            cout<<"E";
         }
     }
 }

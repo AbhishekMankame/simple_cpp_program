@@ -1,2 +1,2 @@
-Final x and y: 1 2
-NNE
+Final x and y: 3 -2
+SSEEE
