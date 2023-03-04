@@ -31,12 +31,24 @@ void solve(){
         }
     }
     cout<<"Final x and y: "<<x<<" "<<y<<endl;
+
+    // for North-East
     if(x>=0 and y>=0){
         while(y--){
             cout<<"N";
         }
         while(x--){
             cout<<"E";
+        }
+    }
+
+    // for South-East
+    if(x>=0 and y<0){
+        while(y++){
+            cout<<"S";
+        }
+        while(x--){
+            cout<<"W";
         }
     }
 }
