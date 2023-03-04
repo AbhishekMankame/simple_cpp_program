@@ -1,4 +1,4 @@
-// Find Displacement
+// Find Displacement: Given a long route containing N,S,E,W directions, find the shortest path to reach the location.
 
 #include<bits/stdc++.h>
 using namespace std;
