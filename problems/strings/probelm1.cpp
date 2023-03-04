@@ -15,6 +15,7 @@ void fast(){
 
 void solve(){
     char route[1000];
+    cin.getline(route, 1000);
 }
 
 int main(){
