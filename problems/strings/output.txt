@@ -1,2 +1,2 @@
-Final x and y: -1 -2
-SSW
+Final x and y: 4 -2
+SSEEEE
