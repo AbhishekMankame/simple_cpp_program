@@ -16,6 +16,11 @@ void fast(){
 void solve(){
     char route[1000];
     cin.getline(route, 1000);
+    int x=0,y=0;
+
+    for(int i=0;route[i]!='\0';i++){
+
+    }
 }
 
 int main(){
