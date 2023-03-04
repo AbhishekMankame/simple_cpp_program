@@ -25,7 +25,6 @@ void solve(){
                     break;
         }
     }
-    cout<<"Final x and y: "<<x<<" "<<y<<endl;
 
     // for North-East
     if(x>=0 and y>=0){
