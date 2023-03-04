@@ -31,6 +31,11 @@ void solve(){
         }
     }
     cout<<"Final x and y: "<<x<<" "<<y<<endl;
+    if(x>=0 and y>=0){
+        while(y--){
+            cout<<"N";
+        }
+    }
 }
 
 int main(){
