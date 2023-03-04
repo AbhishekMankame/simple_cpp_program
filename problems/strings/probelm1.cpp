@@ -35,6 +35,9 @@ void solve(){
         while(y--){
             cout<<"N";
         }
+        while(x--){
+            cout<<"E";
+        }
     }
 }
 
