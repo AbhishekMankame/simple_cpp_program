@@ -8,7 +8,9 @@ void fast(){
 }
 
 void solve(){
-
+    char a[1000]="apple";
+    char b[1000];
+    cout<<strlen(a)<<endl;
 
 }
 
