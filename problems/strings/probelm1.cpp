@@ -19,7 +19,16 @@ void solve(){
     int x=0,y=0;
 
     for(int i=0;route[i]!='\0';i++){
-
+        switch(route[i]){
+            case 'N': y++;
+                    break;
+            case 'S':y--;
+                    break;
+            case 'W': x--;
+                    break;
+            case 'E': x++;
+                    break;
+        }
     }
 }
 
