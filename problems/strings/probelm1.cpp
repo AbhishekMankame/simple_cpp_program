@@ -51,6 +51,16 @@ void solve(){
             cout<<"E";
         }
     }
+
+    // for North-West
+    else if(x<0 and y>=0){
+        while(y--){
+            cout<<"N";
+        }
+        while(x++){
+            cout<<"W";
+        }
+    }
 }
 
 int main(){
