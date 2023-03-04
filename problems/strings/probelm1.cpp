@@ -30,6 +30,7 @@ void solve(){
                     break;
         }
     }
+    cout<<"Final x and y: "<<x<<" "<<y<<endl;
 }
 
 int main(){
