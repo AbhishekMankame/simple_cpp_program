@@ -61,6 +61,16 @@ void solve(){
             cout<<"W";
         }
     }
+
+    // for South-West
+    else if(x<0 and y<0){
+        while(y++){
+            cout<<"S";
+        }
+        while(x++){
+            cout<<"W";
+        }
+    }
 }
 
 int main(){
