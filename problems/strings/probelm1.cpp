@@ -2,6 +2,8 @@
 
 // Sample Input: SNNNEWE
 
+// Sample Output: NNE
+
 #include<bits/stdc++.h>
 using namespace std;
 
