@@ -21,6 +21,8 @@ void solve(){
     cout<<strcmp(a,b)<<endl;
 
     // string concatenation -- strcat
+    char web[]="www.";
+    char domain="google.com";
 
 }
 
