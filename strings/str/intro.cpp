@@ -17,6 +17,8 @@ void solve(){
     cout<<a<<endl;
     cout<<b<<endl;
 
+    // string compare -- strcmp
+
 }
 
 int main(){
