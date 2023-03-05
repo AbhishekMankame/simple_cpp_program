@@ -22,7 +22,8 @@ void solve(){
 
     // string concatenation -- strcat
     char web[]="www.";
-    char domain="google.com";
+    char domain[]="google.com";
+
 
 }
 
