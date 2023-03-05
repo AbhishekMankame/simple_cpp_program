@@ -18,6 +18,9 @@ void solve(){
     cout<<b<<endl;
 
     // string compare -- strcmp
+    cout<<strcmp(a,b)<<endl;
+
+    // string concatenation -- strcat
 
 }
 
