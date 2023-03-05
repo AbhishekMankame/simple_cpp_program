@@ -11,6 +11,8 @@ void solve(){
     char a[1000]="apple";
     char b[1000];
     cout<<strlen(a)<<endl;
+
+    // strcpy
     strcpy(b,a); 
     cout<<a<<endl;
     cout<<b<<endl;
