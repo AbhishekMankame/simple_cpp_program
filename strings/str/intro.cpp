@@ -23,7 +23,7 @@ void solve(){
     // string concatenation -- strcat
     char web[]="www.";
     char domain[]="google.com";
-
+    cout<<strcat(web,domain)<<endl;
 
 }
 
