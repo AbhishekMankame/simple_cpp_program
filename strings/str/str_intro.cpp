@@ -8,6 +8,7 @@ void fast(){
 }
 
 void solve(){
+    string s; // Dynamic array
 
 }
 
