@@ -25,7 +25,7 @@ void solve(){
     char domain[]="google.com";
     //cout<<strcat(web,domain)<<endl;
     strcpy(b,strcat(web,domain));
-    cout<<strcmp(a,b)<<endl;
+    cout<<strcmp(b,a)<<endl;
 
 
 }
