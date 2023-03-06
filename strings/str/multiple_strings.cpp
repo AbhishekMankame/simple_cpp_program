@@ -10,6 +10,12 @@ void fast(){
 }
 
 void solve(){
+    string s;
+    int n=5;
+    vector<string> sarr;
+    while(n--){
+        
+    }
 
 }
 
