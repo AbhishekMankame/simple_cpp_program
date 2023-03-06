@@ -12,7 +12,8 @@ void solve(){
     cin>>n;
     char sentence[1000];
     while(n--){
-
+        cin.getline(sentence,1000);
+        cout<<sentence<<endl;
     }
 }
 
