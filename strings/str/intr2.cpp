@@ -24,6 +24,7 @@ void solve(){
             strcpy(largest,sentence);
         }
     }
+    cout<<"Largest sentence is "<<sentence<<endl;
 }
 
 int main(){
