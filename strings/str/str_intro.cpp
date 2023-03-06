@@ -18,6 +18,11 @@ void solve(){
     getline(cin,s3);
     cout<<s3<<endl;
 
+    //using ending parameter
+    string s4;
+    getline(cin,s4,'.');
+    cout<<s4<<endl;
+
 }
 
 int main(){

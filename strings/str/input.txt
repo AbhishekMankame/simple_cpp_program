@@ -1,1 +1,3 @@
 Data Structures and Algorithms
+Stacks, queues
+linkedin list.

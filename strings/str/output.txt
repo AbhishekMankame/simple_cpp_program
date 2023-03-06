@@ -1,3 +1,5 @@
 hello world
 This is Abhishek!!!
 Data Structures and Algorithms
+Stacks, queues
+linkedin list
