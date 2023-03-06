@@ -15,7 +15,7 @@ void solve(){
     cout<<s2<<endl;
 
     string s3;
-    getline(cin,s);
+    getline(cin,s3);
     cout<<s3<<endl;
 
 }
