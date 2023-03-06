@@ -23,6 +23,11 @@ void solve(){
     getline(cin,s4,'.');
     cout<<s4<<endl;
 
+    // iterating through strings
+    for(char i:s){
+        cout<<i<<",";
+    }
+
 }
 
 int main(){
