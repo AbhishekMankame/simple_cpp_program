@@ -18,6 +18,9 @@ void solve(){
         getline(cin,temp);
         sarr.push_back(temp);
     }
+    for(string x:sarr){
+        cout<<x<<",";
+    }
 
 }
 
