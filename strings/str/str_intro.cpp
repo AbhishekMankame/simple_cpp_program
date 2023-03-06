@@ -11,6 +11,9 @@ void solve(){
     string s="hello world"; // Dynamic array
     cout<<s<<endl;
 
+    string s2("This is Abhishek!!!");
+    cout<<s2<<endl;
+
 }
 
 int main(){
