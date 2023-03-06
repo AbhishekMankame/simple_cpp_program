@@ -14,6 +14,10 @@ void solve(){
     string s2("This is Abhishek!!!");
     cout<<s2<<endl;
 
+    string s3;
+    getline(cin,s);
+    cout<<s3<<endl;
+
 }
 
 int main(){
