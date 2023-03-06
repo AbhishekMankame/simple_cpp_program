@@ -8,7 +8,8 @@ void fast(){
 }
 
 void solve(){
-    string s; // Dynamic array
+    string s="hello world"; // Dynamic array
+    cout<<s<<endl;
 
 }
 
