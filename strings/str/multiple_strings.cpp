@@ -19,7 +19,7 @@ void solve(){
         sarr.push_back(temp);
     }
     for(string x:sarr){
-        cout<<x<<",";
+        cout<<x<<","<<endl; 
     }
 
 }
