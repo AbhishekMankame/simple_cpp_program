@@ -7,6 +7,10 @@ void fast(){
     cout.tie(0);
 }
 
+void solve(){
+
+}
+
 int main(){
 #ifndef ONLINE_JUDGE
     freopen("input.txt","r",stdin);
@@ -15,6 +19,7 @@ int main(){
 #endif
 
     fast();
+    solve();
 
     
     return 0;
