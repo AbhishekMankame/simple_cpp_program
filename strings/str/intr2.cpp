@@ -25,6 +25,7 @@ int main(){
 #endif
 
     fast();
+    solve();
 
     
     return 0;
