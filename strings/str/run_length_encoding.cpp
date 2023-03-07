@@ -15,8 +15,16 @@ void fast(){
     cout.tie(0);
 }
 
-void solve(){
+string compression(string str){
 
+}
+
+void solve(){
+    string s1;
+    cout<<compression(s1)<<endl;
+
+    string s2;
+    cout<<compression(s2)<<endl;
 }
 
 int main(){
