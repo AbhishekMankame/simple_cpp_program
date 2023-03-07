@@ -3,6 +3,8 @@ using namespace std;
 
 // Run Length Encoding for String Compression
 // If compressed string is bigger than original return original string
+// Input : aaabbccddee
+// Output : a3b2c2d2e2
 
 void fast(){
     ios_base::sync_with_stdio(0); 
