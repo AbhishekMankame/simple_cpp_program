@@ -1,5 +1,2 @@
-Data Structures and Algorithms,
-Stacks, queues,
-linkedin list.,
-linkedin list.,
-linkedin list.,
+
+

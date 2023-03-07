@@ -28,6 +28,7 @@ string compression(string str){
         output +=str[i];
         output += to_string(count);
     }
+    return output;
 }
 
 void solve(){
