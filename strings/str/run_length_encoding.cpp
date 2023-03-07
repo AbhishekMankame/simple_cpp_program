@@ -25,6 +25,8 @@ string compression(string str){
             count++;
             i++;
         }
+        output +=str[i];
+        output += to_string(count);
     }
 }
 
