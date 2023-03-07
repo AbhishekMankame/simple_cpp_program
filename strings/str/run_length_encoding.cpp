@@ -6,6 +6,9 @@ using namespace std;
 // Input : aaabbccddee
 // Output : a3b2c2d2e2
 
+// Input : abcd
+// Output : abcd
+
 void fast(){
     ios_base::sync_with_stdio(0); 
     cin.tie(0); 
