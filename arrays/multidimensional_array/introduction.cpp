@@ -9,6 +9,12 @@ void fast(){
 
 void solve(){
 
+    //constraint
+    int arr[1000][1000];
+    //n rows and m columns
+    int n,m;
+    cin>>n>>m;
+
 }
 
 int main(){
