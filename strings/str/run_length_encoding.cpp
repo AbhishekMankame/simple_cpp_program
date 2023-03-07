@@ -28,14 +28,17 @@ string compression(string str){
         output +=str[i];
         output += to_string(count);
     }
+    if(output.length()>str.length()){
+        return str;
+    }
     return output;
 }
 
 void solve(){
-    string s1;
+    string s1="aaaabbbccdee";
     cout<<compression(s1)<<endl;
 
-    string s2;
+    string s2="abdc";
     cout<<compression(s2)<<endl;
 }
 
