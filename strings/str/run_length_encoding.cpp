@@ -16,7 +16,8 @@ void fast(){
 }
 
 string compression(string str){
-
+    int n=str.length();
+    int count=1;
 }
 
 void solve(){
