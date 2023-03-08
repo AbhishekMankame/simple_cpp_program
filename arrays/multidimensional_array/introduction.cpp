@@ -25,8 +25,7 @@ void solve(){
     int n,m;
     cin>>n>>m;
 
-    // print the array
-    print(arr,n,m);
+   
 
 
     //taking inputs
@@ -35,6 +34,9 @@ void solve(){
             cin>>arr[i][j];
         }
     }
+
+     // print the array
+    print(arr,n,m);
 
 }
 
