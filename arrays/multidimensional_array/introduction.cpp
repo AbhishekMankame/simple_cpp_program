@@ -7,6 +7,10 @@ void fast(){
     cout.tie(0);
 }
 
+void print(int arr[][100], int n, int m){
+    
+}
+
 void solve(){
 
     //constraint
@@ -14,6 +18,7 @@ void solve(){
     //n rows and m columns
     int n,m;
     cin>>n>>m;
+
 
     //taking inputs
     for(int i=0;i<n;i++){
