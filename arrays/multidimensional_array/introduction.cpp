@@ -25,6 +25,7 @@ void solve(){
     cin>>n>>m;
 
     // print the array
+    
 
 
     //taking inputs
