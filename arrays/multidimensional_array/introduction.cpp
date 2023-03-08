@@ -12,6 +12,7 @@ void print(int arr[][100], int n, int m){
         for(int j=0;j<m;j++){
             cout<<arr[i][j]<<" ";
         }
+        cout<<endl;
     }
 }
 
@@ -22,6 +23,8 @@ void solve(){
     //n rows and m columns
     int n,m;
     cin>>n>>m;
+
+    // print the array
 
 
     //taking inputs
