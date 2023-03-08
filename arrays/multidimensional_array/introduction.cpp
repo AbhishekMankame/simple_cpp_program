@@ -19,13 +19,13 @@ void print(int arr[][100], int n, int m){
 void solve(){
 
     //constraint
-    int arr[1000][1000];
+    int arr[1000][100];
     //n rows and m columns
     int n,m;
     cin>>n>>m;
 
     // print the array
-    
+    print(arr,n,m);
 
 
     //taking inputs
