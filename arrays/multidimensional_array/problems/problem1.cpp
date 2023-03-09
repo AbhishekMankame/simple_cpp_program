@@ -18,6 +18,10 @@ using namespace std;
 
 void print(int arr[][10], int n, int m){
     // 4 variables
+    int startRow=0;
+    int endRow=n-1;
+    int startCol=0;
+    int endCol=m-1;
 }
 
 void fast(){
