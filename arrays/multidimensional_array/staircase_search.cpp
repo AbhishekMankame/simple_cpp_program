@@ -37,6 +37,8 @@ pair<int,int> staircaseSearch(int arr[][4], int n, int m, int key){
             i++;
         }
     }
+
+    return {-1,-1};
 }
 
 void solve(){
