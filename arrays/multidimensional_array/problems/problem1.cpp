@@ -44,7 +44,7 @@ void print(int arr[][10], int n, int m){
         }
 
         //start col
-        for(int row=endRow-1;row>=startRow;row--){
+        for(int row=endRow-1;row>=startRow+1;row--){
             //Avoid Duplicate Printing of elements
             if(startCol==endCol){
                 break;
