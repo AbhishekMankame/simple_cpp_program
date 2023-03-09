@@ -39,6 +39,8 @@ void print(int arr[][10], int n, int m){
         for(int col=endCol-1;col>=startCol;col--){
             cout<<arr[endRow][col];
         }
+
+        //start col
     }
 }
 
