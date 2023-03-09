@@ -12,6 +12,11 @@ void solve(){
     cout<<numbers[2][1]<<endl;
     cout<<numbers[1]<<endl;
 
+    // Iteration
+    for(int i=0;i<3;i++){
+        cout<<numbers[i]<<endl;
+    }
+
 }
 
 int main(){
