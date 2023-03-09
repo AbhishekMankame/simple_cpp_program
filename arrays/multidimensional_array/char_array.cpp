@@ -8,6 +8,7 @@ void fast(){
 }
 
 void solve(){
+    char numbers[][10]={"one", "two", "three"};
 
 }
 
