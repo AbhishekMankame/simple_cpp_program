@@ -27,7 +27,15 @@ pair<int,int> staircaseSearch(int arr[][4], int n, int m, int key){
     int j=m-1; //starting from last element of first row
 
     while(i<n and j>=0){ // search should not go beyond this boundary
-
+        if(arr[i][j]==key){
+            return {i,j};
+        }
+        else if(arr[i][j]>key){
+            j--;
+        }
+        else{
+            i++;
+        }
     }
 }
 
