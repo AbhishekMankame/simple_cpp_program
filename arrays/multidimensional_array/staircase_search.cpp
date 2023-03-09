@@ -4,6 +4,7 @@
 // some of the methods to solve
 // Linear search --> Time complexity--> O(N X M)
 // Binary search --> Time complexity in worst case --> O(N X logM)
+// Staircase search --> Time complexity --> O(M + N)
 
 #include<bits/stdc++.h>
 using namespace std;
