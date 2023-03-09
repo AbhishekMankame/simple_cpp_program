@@ -15,6 +15,10 @@ void fast(){
     cout.tie(0);
 }
 
+pair<int,int> staircaseSearch(int arr[][4], int n, int m, int key){
+    
+}
+
 void solve(){
     int arr[][4]={{10,20,30,40},
                     {15,25,35,45},
