@@ -17,6 +17,10 @@ void fast(){
 
 pair<int,int> staircaseSearch(int arr[][4], int n, int m, int key){
     
+    // later if the element is not present return the pair of {-1,-1}
+    if(key<arr[0][0] or key>arr[n-1][m-1]){
+        return {-1,-1};
+    }
 }
 
 void solve(){
