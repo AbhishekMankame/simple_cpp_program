@@ -23,7 +23,8 @@ pair<int,int> staircaseSearch(int arr[][4], int n, int m, int key){
     }
 
     //staircase search
-    
+    int i=0;
+    int j=m-1; //starting from last element of first row
 }
 
 void solve(){
