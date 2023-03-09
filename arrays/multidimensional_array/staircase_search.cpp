@@ -49,6 +49,8 @@ void solve(){
     
     int n=4,m=4;
 
+    pair<int, int> coords = staircaseSearch(arr, n,m,33);
+
 }
 
 int main(){
