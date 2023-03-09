@@ -44,6 +44,8 @@ void print(int arr[][10], int n, int m){
         for(int row=endRow-1;row>=startRow;row--){
             cout<<arr[row][startCol];
         }
+
+        // update the variables to point the inner spiral
     }
 }
 
