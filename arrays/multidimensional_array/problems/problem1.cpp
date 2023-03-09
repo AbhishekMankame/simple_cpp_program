@@ -46,6 +46,10 @@ void print(int arr[][10], int n, int m){
         }
 
         // update the variables to point the inner spiral
+        startRow++;
+        endRow--;
+        startCol++;
+        endCol--;
     }
 }
 
