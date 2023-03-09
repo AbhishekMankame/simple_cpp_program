@@ -16,6 +16,10 @@ Output:
 #include<bits/stdc++.h>
 using namespace std;
 
+void print(int arr[][10], int n, int m){
+    // 4 variables
+}
+
 void fast(){
     ios_base::sync_with_stdio(0); 
     cin.tie(0); 
@@ -25,7 +29,7 @@ void fast(){
 void solve(){
 
     // Declaration and initiallization of array
-    int arr[][4]={{1,2,3,4},{12,13,14,5},{11,16,15,6},{10,9,8,7}};
+    int arr[][10]={{1,2,3,4},{12,13,14,5},{11,16,15,6},{10,9,8,7}};
     int n=4,m=4;
 }
 
