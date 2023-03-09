@@ -24,7 +24,12 @@ void print(int arr[][10], int n, int m){
     int endCol=m-1;
 
     // Outer loop(Traverse array boundary)
-    
+    while(){
+        //start row
+        for(int col=startCol;col<=endCol;col++){
+            cout<<arr[startRow][col];
+        }
+    }
 }
 
 void fast(){
