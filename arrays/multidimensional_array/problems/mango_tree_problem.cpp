@@ -19,6 +19,8 @@ Output: 3
 # . | . # # .
 . # | . . . .
 
+// Explanation: Rahul can ensure that he gets at 3 mango trees by cutting as follows.
+
 */
 
 
