@@ -1,6 +1,8 @@
 // staircase search
 // Write a function that searches for an element in row wise and column wise sorted 2D array
 
+// some of the methods to solve
+// Linear search --> Time complexity--> O(N X M)
 #include<bits/stdc++.h>
 using namespace std;
 
