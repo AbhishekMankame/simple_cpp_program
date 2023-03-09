@@ -24,6 +24,8 @@ void fast(){
 
 void solve(){
 
+    // Declaration and initiallization of array
+
 }
 
 int main(){
