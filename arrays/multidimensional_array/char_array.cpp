@@ -8,7 +8,7 @@ void fast(){
 }
 
 void solve(){
-    char numbers[][10]={"one", "two", "three"};
+    char numbers[][10]={"one", "two", "three"}; // Here each string represents character array
 
 }
 
