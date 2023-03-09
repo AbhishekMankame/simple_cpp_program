@@ -13,6 +13,14 @@ int main(){
     // Number of iterations --> 3
     //O(3)
 
+    int n;
+    cin>>n;
+    for(int i=0;i<n;i++){
+        int y;
+        y=5;
+        y++;
+    }
+
 
     return 0;
 }
