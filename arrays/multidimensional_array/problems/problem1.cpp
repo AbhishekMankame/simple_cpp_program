@@ -29,6 +29,11 @@ void print(int arr[][10], int n, int m){
         for(int col=startCol;col<=endCol;col++){
             cout<<arr[startRow][col];
         }
+
+        //end col
+        for(int row=startRow+1;row<=endRow;row++){
+            cout<<arr[row][endCol];
+        }
     }
 }
 
