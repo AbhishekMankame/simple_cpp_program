@@ -42,6 +42,10 @@ void print(int arr[][10], int n, int m){
 
         //start col
         for(int row=endRow-1;row>=startRow;row--){
+            //Avoid Duplicate Printing of elements
+            if(startCol==endCol){
+                break;
+            }
             cout<<arr[row][startCol];
         }
 
