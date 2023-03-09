@@ -10,6 +10,7 @@ void fast(){
 void solve(){
     char numbers[][10]={"one", "two", "three"}; // Here each string represents character array
     cout<<numbers[2][1]<<endl;
+    cout<<numbers[1]<<endl;
 
 }
 
