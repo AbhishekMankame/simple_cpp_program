@@ -1,3 +1,6 @@
+// staircase search
+// Write a function that searches for an element in row wise and column wise sorted 2D array
+
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -8,6 +11,10 @@ void fast(){
 }
 
 void solve(){
+    int arr[][4]={{10,20,30,40},
+                    {15,25,35,45},
+                    {27,29,39,48},
+                    {32,33,39,50}};
 
 }
 
