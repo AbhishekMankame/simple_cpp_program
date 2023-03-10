@@ -26,7 +26,7 @@ int main(){
     // some important points
     /*
     O(N) + O(N) = O(N)
-    O(k*N)
+    O(k*N) = O(N) if K is very small(K<<<<N)
     */
 
 
