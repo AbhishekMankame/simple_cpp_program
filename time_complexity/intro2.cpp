@@ -1,6 +1,9 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+// N < 100000
+// a[i] < 100000
+
 void fast(){
     ios_base::sync_with_stdio(0); 
     cin.tie(0); 
