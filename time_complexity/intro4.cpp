@@ -25,13 +25,16 @@ void fast(){
 void solve(){
     int n;
     cin>>n;
+    int ct=0;
     int sum=0;
     for(int i=0;i<n;i++){
         int x;
         cin>>x;
         sum=sum+x;
+        ct++;
     }
     cout<<sum<<endl;
+    cout<<ct<<endl;
 }
 // O(T*N) == O(N^2)
 
