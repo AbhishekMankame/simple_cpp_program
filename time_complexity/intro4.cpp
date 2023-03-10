@@ -15,7 +15,7 @@ Sum of N over all test cases is 10^7
 
 #include<bits/stdc++.h>
 using namespace std;
-
+ 
 void fast(){
     ios_base::sync_with_stdio(0); 
     cin.tie(0); 
@@ -36,7 +36,7 @@ void solve(){
     cout<<sum<<endl;
     cout<<ct<<endl;
 }
-// O(T*N) == O(N^2)
+// O(T*N) == O(N^2) --> O(ct) = O(10^7)  due to given constraits
 
 int main(){
 #ifndef ONLINE_JUDGE
