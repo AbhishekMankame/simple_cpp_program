@@ -26,6 +26,7 @@ void solve(){
     }
     cout<<sum<<endl;
 }
+// O(T*N) == O(N^2)
 
 int main(){
 #ifndef ONLINE_JUDGE
