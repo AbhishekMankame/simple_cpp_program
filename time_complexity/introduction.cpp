@@ -26,7 +26,9 @@ int main(){
     // some important points
     /*
     O(N) + O(N) = O(N)
-    O(k*N) = O(N) if K is very small(K<<<<N)
+    O(k*N) = O(N) if K is very small (K<<<<N)
+
+    Numbers of interations in 1 second in programming websites is --> 10^7 to 10^8
     */
 
 
