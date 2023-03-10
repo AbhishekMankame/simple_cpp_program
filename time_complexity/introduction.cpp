@@ -24,6 +24,9 @@ int main(){
     // Overall complexity of the code is O(n) as O(n)>>>>O(1)
 
     // some important points
+    /*
+    O(N) + O(N) = o(N)
+    */
 
 
     return 0;
