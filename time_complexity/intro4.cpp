@@ -1,3 +1,7 @@
+/*
+Given T test cases and an array of size N. Print sum of array in each test case.
+*/
+
 #include<bits/stdc++.h>
 using namespace std;
 
