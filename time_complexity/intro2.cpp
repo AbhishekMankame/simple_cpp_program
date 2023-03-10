@@ -24,7 +24,7 @@ void solve(){
             //a[i]
         }
     }
-
+    // O(!) + O(1) + O(N^2) = O(N^2)
 }
 
 int main(){
