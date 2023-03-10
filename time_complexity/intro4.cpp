@@ -1,5 +1,9 @@
 /*
 Given T test cases and an array of size N. Print sum of array in each test case.
+Constraints: 
+1 <= T <= 1000
+1 <= N <= 1000
+1 <= a[i] <= 1000
 */
 
 #include<bits/stdc++.h>
