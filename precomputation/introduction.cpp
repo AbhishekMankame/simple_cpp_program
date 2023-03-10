@@ -11,7 +11,7 @@ Constraints:
 
 #include<bits/stdc++.h>
 using namespace std;
-const int M=10^9+7;
+const int M=1e9+7;
 
 void fast(){
     ios_base::sync_with_stdio(0); 
