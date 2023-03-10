@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
+// N < 10^5
 
 void fast(){
     ios_base::sync_with_stdio(0); 
@@ -8,6 +9,11 @@ void fast(){
 }
 
 void solve(){
+    int n;
+    cin>>n;
+    while(n>0){
+        n=n/2;
+    }
 
 }
 
