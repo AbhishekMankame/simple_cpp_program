@@ -11,6 +11,7 @@ Constraints:
 
 #include<bits/stdc++.h>
 using namespace std;
+const int M=10^9+7;
 
 void fast(){
     ios_base::sync_with_stdio(0); 
@@ -22,7 +23,9 @@ void solve(){
     int n;
     cin>>n;
     long long fact=1;
-    for(int i=2;i<=n;i++)
+    for(int i=2;i<=n;i++){
+        fact = (fact*i)%M;
+    }
 
 }
 
