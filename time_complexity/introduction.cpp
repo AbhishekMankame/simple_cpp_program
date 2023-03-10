@@ -21,6 +21,7 @@ int main(){
         y++;
     }
     // O(5) + O(3*n)
+    // Overall complexity of the code is O(n) as O(n)>>>>O(1)
 
 
     return 0;
