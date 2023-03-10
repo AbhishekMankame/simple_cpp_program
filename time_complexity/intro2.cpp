@@ -17,6 +17,7 @@ void solve(){
     for(int i=0;i<n;i++){
         cin>>a[i];
     }
+    // O(1) + O(1) + O(N) = O(N)
 
 }
 
