@@ -19,6 +19,10 @@ void fast(){
 }
 
 void solve(){
+    int n;
+    cin>>n;
+    long long fact=1;
+    for(int i=2;i<=n;i++)
 
 }
 
