@@ -11,6 +11,7 @@ void fast(){
 void solve(){
     int n;
     cin>>n;
+    int count=0;
     while(n>0){
         n=n/2;
         cout<<n<<endl;
