@@ -19,6 +19,12 @@ void solve(){
     }
     // O(1) + O(1) + O(N) = O(N)
 
+    for(int i=0;i<n;i++){
+        for(int j=0;j<n;j++){
+            //a[i]
+        }
+    }
+
 }
 
 int main(){
