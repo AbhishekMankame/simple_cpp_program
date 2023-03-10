@@ -1,3 +1,10 @@
+/*
+Given T test cases and in each test case a number N. Print its factorial for each test case %M
+where M = 10^7+9
+*/
+
+
+
 #include<bits/stdc++.h>
 using namespace std;
 
