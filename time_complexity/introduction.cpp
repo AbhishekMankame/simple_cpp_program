@@ -20,6 +20,7 @@ int main(){
         y=5;
         y++;
     }
+    // O(5) + O(3*n)
 
 
     return 0;
