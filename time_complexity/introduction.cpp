@@ -29,6 +29,7 @@ int main(){
     O(k*N) = O(N) if K is very small (K<<<<N)
 
     Numbers of interations in 1 second in programming websites is --> 10^7 to 10^8
+    If the numbers of iterations are in the given range then the code will run properly
     */
 
 
