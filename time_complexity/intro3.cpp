@@ -15,7 +15,9 @@ void solve(){
     while(n>0){
         n=n/2;
         cout<<n<<endl;
+        count++;
     }
+    cout<<count<<endl;
 
 }
 
