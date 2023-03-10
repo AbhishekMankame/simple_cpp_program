@@ -25,7 +25,8 @@ int main(){
 
     // some important points
     /*
-    O(N) + O(N) = o(N)
+    O(N) + O(N) = O(N)
+    O(k*N)
     */
 
 
