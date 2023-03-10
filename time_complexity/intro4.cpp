@@ -6,6 +6,13 @@ Constraints:
 1 <= a[i] <= 1000
 */
 
+/*
+1 <= T <= 100000
+1 <= N <= 100000
+1 <= a[i] <= 100000
+Sum of N over all test cases is 10^7
+*/
+
 #include<bits/stdc++.h>
 using namespace std;
 
