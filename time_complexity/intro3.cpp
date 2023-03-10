@@ -18,6 +18,7 @@ void solve(){
         count++;
     }
     // Here time complexity of the loop is O(log(N))
+    // O(1) + O(1) + O(log(n)) = O(log(n))
     cout<<count<<endl;  
 
 }
