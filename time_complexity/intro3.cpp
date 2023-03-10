@@ -12,6 +12,7 @@ void solve(){
     int n;
     cin>>n;
     int count=0;
+    int ct=0;
     while(n>0){
         n=n/2;
         cout<<n<<endl;
@@ -23,9 +24,11 @@ void solve(){
 
     for(int i=0;i<n;i++){
         for(int j=0;j<i;j++){
-            
+            ct++;
         }
     }
+    cout<<endl;
+    cout<<ct<<endl;
 
 }
 
