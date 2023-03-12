@@ -9,6 +9,12 @@ b-inverse is calculated using binary exponentiation or modular exponentiation
 
 */
 
+/*
+Given a number N. Print its factorial.
+Constraints
+1<=N<=100
+*/
+
 #include<bits/stdc++.h>
 using namespace std;
 
