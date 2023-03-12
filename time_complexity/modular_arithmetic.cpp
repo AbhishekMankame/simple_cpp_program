@@ -1,6 +1,7 @@
 /* 
 Modular arithmetics:
-(a+b)
+(a+b)%M = ((a%M) + (b%M))%M
+(a*b)%M = ((a%M) * (b%M))%M
 
 */
 
