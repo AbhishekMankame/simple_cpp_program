@@ -5,6 +5,7 @@ Modular arithmetics:
 (a-b)%M = ((a%M)-(b%M)+M)%M
 (a/b)%M = ((a%M)*((b^-1)%M)%M
 where b^-1 is multiplicative inverse
+b-inverse is calculated using binary exponentiation or modular exponentiation 
 
 */
 
